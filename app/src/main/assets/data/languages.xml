@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+   <!-- English -->
+   <language name="en_UK" >
+      <!--  Menu  -->
+      <string key="new_game" value="New game" />
+      <string key="records" value="Records" />
+      <string key="easy" value="Easy" />
+      <string key="hard" value="Hard" />
+      <string key="start" value="start" />
+      <string key="map_size" value="Map size" />
+      <string key="move" value="Move" />
+      <string key="time" value="Time" />
+      <string key="score" value="Score" />
+      <string key="again" value="Again" />
+      <string key="menu" value="Menu" />
+   </language>
+
+<!-- Russian -->
+   <language name="ru_RU" >
+      <!--  Menu  -->
+      <string key="new_game" value="Новая игра" />
+      <string key="records" value="Рекорды" />
+      <string key="easy" value="Легко" />
+      <string key="hard" value="Сложно" />
+      <string key="start" value="Поехали" />
+      <string key="map_size" value="Размер" />
+      <string key="move" value="Ходы" />
+      <string key="time" value="Время" />
+      <string key="score" value="Счет" />
+      <string key="again" value="Заново" />
+      <string key="menu" value="Меню" />
+   </language>
+</languages>
